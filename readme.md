@@ -27,7 +27,7 @@ Jarvis is a Python-based AI-powered voice assistant inspired by Iron Man’s Jar
 
 ## 📂 Project Structure  
 Jarvis/
-│── main.py # Main script to run Jarvis
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+1) main.py # Main script to run Jarvis
+2) requirements.txt # Dependencies
+3) README.md # Project documentation
 
